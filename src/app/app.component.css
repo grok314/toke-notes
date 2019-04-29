@@ -1,0 +1,17 @@
+.incident-btn {
+  width: 100px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+.urge-incident {
+  background-color: #66ff99;
+}
+
+.toke-incident {
+  background-color: #ff8533;
+}
+
+.muted-text {
+  color: #ccc;
+}
